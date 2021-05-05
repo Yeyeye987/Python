@@ -1,2 +1,3 @@
 # Python
-Berisi beberapa dasar-dasar python dan beberapa project yang dicoba
+This is just a practice code from me because i need to keep my data safe.
+Enjoy
